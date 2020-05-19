@@ -11,8 +11,8 @@
 	},
 	"db_config" : {
 		"protocol" : "mysql",
-		"host" : "127.0.0.1",
-		"database" : "mydb",
+		"host" : "localhost",
+		"database" : "shop",
 		"user" : "root",
 		"password" : "kenny1995",
 		"port" : 3306
